@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "47879918923",
+    "firebase_url": "https://assignment-7b531-default-rtdb.firebaseio.com",
+    "project_id": "assignment-7b531",
+    "storage_bucket": "assignment-7b531.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47879918923:android:88851cc150aac1abda04ce",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47879918923-6q7unqeti6tkvei4dlpuelpiml6ovhie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgs9uik5UysJNI_BMMfuJW7bMANujgtQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47879918923-6q7unqeti6tkvei4dlpuelpiml6ovhie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47879918923:android:999e2216633f2a9fda04ce",
+        "android_client_info": {
+          "package_name": "com.microprogramers.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47879918923-6q7unqeti6tkvei4dlpuelpiml6ovhie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgs9uik5UysJNI_BMMfuJW7bMANujgtQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47879918923-6q7unqeti6tkvei4dlpuelpiml6ovhie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47879918923:android:ac4603c658d00bbdda04ce",
+        "android_client_info": {
+          "package_name": "org.microprogramers.my_first_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47879918923-538kvn3ec42hjrma5ubpg0gjhqf1m4ok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.microprogramers.my_first_project",
+            "certificate_hash": "5eb4b6bef86f32f1498bff781a12fa947af22785"
+          }
+        },
+        {
+          "client_id": "47879918923-6q7unqeti6tkvei4dlpuelpiml6ovhie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgs9uik5UysJNI_BMMfuJW7bMANujgtQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47879918923-6q7unqeti6tkvei4dlpuelpiml6ovhie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
